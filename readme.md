@@ -2,14 +2,13 @@
 
                  Como criar um Readme (No Github)
 
-
--1 Primeiro, entre no Github e clique na opção de criar um repositório.
--1 No nome do repositório se deve colocar um nome correspondente ao nome do usuário, por exemplo: se o nome do usuário for Guilherme, então esse deverá ser o nome do repositório.
--1 Caso deseje, adicione uma descrição ao seu repositório.
-Passo 4: Selecione a opção "Público".
-Passo 5: Após ter selecionado a opção "Público", selecione "Inicializar este repositório com um LEIAME".
-Passo 6: Assim, clique em "Criar repositório".
-Passo 7: Após esse processo, na barra lateral direita, clique em "Editar LEIAME"
+1. Primeiro, entre no Github e clique na opção de criar um repositório.
+1. No nome do repositório se deve colocar um nome correspondente ao nome do usuário, por exemplo: se o nome do usuário for Guilherme, então esse deverá ser o nome do repositório.
+1. Caso deseje, adicione uma descrição ao seu repositório.
+1. Selecione a opção "Público".
+1. Após ter selecionado a opção "Público", selecione "Inicializar este repositório com um LEIAME".
+1. Assim, clique em "Criar repositório".
+1. Após esse processo, na barra lateral direita, clique em "Editar LEIAME"
 
 ##       O que é um Readme?
 
